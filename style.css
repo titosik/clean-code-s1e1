@@ -2,7 +2,7 @@
 body {
   background-color: #f8f8f8;
   color: #333;
-    font-family: Lato, sans-serif;
+  font-family: Lato, sans-serif;
 }
 .hero-box {
   width: 500px;
@@ -18,8 +18,10 @@ body {
 }
 
 @media (max-width:768px) {
+
 .hero-box { text-align: center;
 }
+
 }
 .main-box {
   display: block;
