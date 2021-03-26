@@ -13,7 +13,8 @@ body {
 .hero-box img {
   width: 100%;
 }
-.hero-box .more-inf {
+.hero-box
+.more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -40,10 +41,12 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
-input,button{
+input,
+button{
   outline: none;
 }
 button {
