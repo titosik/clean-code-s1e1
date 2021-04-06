@@ -24,9 +24,7 @@ body {
 }
 
 }
-
 main {
-.main-box {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -74,6 +72,7 @@ label[for="new-task"] {
   margin: 0;
   text-transform: uppercase;
 }
+
 input[type="text"] {
   margin: 0;
   font-size: 18px;
